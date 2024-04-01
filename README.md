@@ -1,6 +1,6 @@
 ## Global Household Electrification
 
-This project focuses on providing household solutions to undeserved communities in OECD(Organization for Economic Co-operation and Development) countries, ensuring access to reliable ansd sustainable energy sources
+The primary aim of this project is to develop a global household predictive model with a specific focus solely on OECD countries. While the objectives are: to incorporate advanced machine learning techniques and additional dataset to refine the model’s accuracy. to perform some analysis to uncover patterns, correlations, and trends within the dataset to extract some valuable information.
 
 ## Deployment
 ### Installation
